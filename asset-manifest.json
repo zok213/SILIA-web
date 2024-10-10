@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/zok213.github.io/SILIA-web/static/css/main.130c44f8.css",
-    "main.js": "/zok213.github.io/SILIA-web/static/js/main.baffc45b.js",
-    "static/js/453.258b012d.chunk.js": "/zok213.github.io/SILIA-web/static/js/453.258b012d.chunk.js",
-    "static/media/xbot.glb": "/zok213.github.io/SILIA-web/static/media/xbot.2cabbc59a4305ae3aa86.glb",
-    "static/media/ybot.glb": "/zok213.github.io/SILIA-web/static/media/ybot.a2f7ba5b364cbcfdc39b.glb",
-    "static/media/home.png": "/zok213.github.io/SILIA-web/static/media/home.de54749dd42dfc4d7caa.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/zok213.github.io/SILIA-web/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/ybot.png": "/zok213.github.io/SILIA-web/static/media/ybot.589f71845d3d36089116.png",
-    "static/media/xbot.png": "/zok213.github.io/SILIA-web/static/media/xbot.02b9f09431cb8a55bfae.png",
-    "static/media/logo.png": "/zok213.github.io/SILIA-web/static/media/logo.d87c37b368e9f5239324.png",
-    "static/media/fontawesome-webfont.eot": "/zok213.github.io/SILIA-web/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/zok213.github.io/SILIA-web/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/zok213.github.io/SILIA-web/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/zok213.github.io/SILIA-web/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/videos.png": "/zok213.github.io/SILIA-web/static/media/videos.7672d4fe7fa107d31931.png",
-    "static/media/convert.png": "/zok213.github.io/SILIA-web/static/media/convert.d6a6f8d10af95304032a.png",
-    "static/media/learn-sign.jpg": "/zok213.github.io/SILIA-web/static/media/learn-sign.f97484cc2c54fa02b568.jpg",
-    "index.html": "/zok213.github.io/SILIA-web/index.html",
-    "main.130c44f8.css.map": "/zok213.github.io/SILIA-web/static/css/main.130c44f8.css.map",
-    "main.baffc45b.js.map": "/zok213.github.io/SILIA-web/static/js/main.baffc45b.js.map",
-    "453.258b012d.chunk.js.map": "/zok213.github.io/SILIA-web/static/js/453.258b012d.chunk.js.map"
+    "main.css": "/SILIA-web/static/css/main.376283d7.css",
+    "main.js": "/SILIA-web/static/js/main.4db60a92.js",
+    "static/js/453.258b012d.chunk.js": "/SILIA-web/static/js/453.258b012d.chunk.js",
+    "static/media/xbot.glb": "/SILIA-web/static/media/xbot.2cabbc59a4305ae3aa86.glb",
+    "static/media/ybot.glb": "/SILIA-web/static/media/ybot.a2f7ba5b364cbcfdc39b.glb",
+    "static/media/home.png": "/SILIA-web/static/media/home.de54749dd42dfc4d7caa.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/SILIA-web/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/ybot.png": "/SILIA-web/static/media/ybot.589f71845d3d36089116.png",
+    "static/media/xbot.png": "/SILIA-web/static/media/xbot.02b9f09431cb8a55bfae.png",
+    "static/media/logo.png": "/SILIA-web/static/media/logo.d87c37b368e9f5239324.png",
+    "static/media/fontawesome-webfont.eot": "/SILIA-web/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/SILIA-web/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/SILIA-web/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/SILIA-web/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/videos.png": "/SILIA-web/static/media/videos.7672d4fe7fa107d31931.png",
+    "static/media/convert.png": "/SILIA-web/static/media/convert.d6a6f8d10af95304032a.png",
+    "static/media/learn-sign.jpg": "/SILIA-web/static/media/learn-sign.f97484cc2c54fa02b568.jpg",
+    "index.html": "/SILIA-web/index.html",
+    "main.376283d7.css.map": "/SILIA-web/static/css/main.376283d7.css.map",
+    "main.4db60a92.js.map": "/SILIA-web/static/js/main.4db60a92.js.map",
+    "453.258b012d.chunk.js.map": "/SILIA-web/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.130c44f8.css",
-    "static/js/main.baffc45b.js"
+    "static/css/main.376283d7.css",
+    "static/js/main.4db60a92.js"
   ]
 }
