@@ -17,13 +17,13 @@ function App() {
       <div>
         <Navbar />
         <Routes>
-          <Route exact path='/sign-kit/home' element={<Home />} />
-          <Route exact path='/sign-kit/convert' element={<Convert />} />
-          <Route exact path='/sign-kit/learn-sign' element={<LearnSign />} />
-          <Route exact path='/sign-kit/all-videos' element={<Videos />} />
-          <Route exact path='/sign-kit/video/:videoId' element={<Video />} />
-          <Route exact path='/sign-kit/create-video' element={<CreateVideo />} />
-          <Route exact path='/sign-kit/feedback' element={<Feedback />} />
+          <Route exact path='/SILIA-web/home' element={<Home />} />
+          <Route exact path='/SILIA-web/convert' element={<Convert />} />
+          <Route exact path='/SILIA-web/learn-sign' element={<LearnSign />} />
+          <Route exact path='/SILIA-web/all-videos' element={<Videos />} />
+          <Route exact path='/SILIA-web/video/:videoId' element={<Video />} />
+          <Route exact path='/SILIA-web/create-video' element={<CreateVideo />} />
+          <Route exact path='/SILIA-web/feedback' element={<Feedback />} />
           <Route exact path='*' element={<Home/>} />
         </Routes>
         <Footer />
