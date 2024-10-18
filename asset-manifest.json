@@ -1,12 +1,18 @@
 {
   "files": {
     "main.css": "/SILIA-web/static/css/main.376283d7.css",
-    "main.js": "/SILIA-web/static/js/main.4f547940.js",
+    "main.js": "/SILIA-web/static/js/main.fe3f7cf6.js",
     "static/js/453.258b012d.chunk.js": "/SILIA-web/static/js/453.258b012d.chunk.js",
+    "static/media/Khoi.png": "/SILIA-web/static/media/Khoi.45e9eb820e2501b8eb63.png",
     "static/media/xbot.glb": "/SILIA-web/static/media/xbot.2cabbc59a4305ae3aa86.glb",
     "static/media/ybot.glb": "/SILIA-web/static/media/ybot.a2f7ba5b364cbcfdc39b.glb",
+    "static/media/Viet.jpg": "/SILIA-web/static/media/Viet.c9ccc9c407067c83527a.jpg",
+    "static/media/An.jpg": "/SILIA-web/static/media/An.73e93115874f4f6b9d39.jpg",
+    "static/media/Han.png": "/SILIA-web/static/media/Han.3e5d51db885625cc0eec.png",
     "static/media/home.png": "/SILIA-web/static/media/home.de54749dd42dfc4d7caa.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/SILIA-web/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Minh Tài.jpg": "/SILIA-web/static/media/Minh Tài.c0cabdd2c0be9ed78295.jpg",
+    "static/media/Khang.jpg": "/SILIA-web/static/media/Khang.247f5fa92e3d18826c26.jpg",
     "static/media/ybot.png": "/SILIA-web/static/media/ybot.589f71845d3d36089116.png",
     "static/media/xbot.png": "/SILIA-web/static/media/xbot.02b9f09431cb8a55bfae.png",
     "static/media/logo.png": "/SILIA-web/static/media/logo.d87c37b368e9f5239324.png",
@@ -19,11 +25,11 @@
     "static/media/learn-sign.jpg": "/SILIA-web/static/media/learn-sign.f97484cc2c54fa02b568.jpg",
     "index.html": "/SILIA-web/index.html",
     "main.376283d7.css.map": "/SILIA-web/static/css/main.376283d7.css.map",
-    "main.4f547940.js.map": "/SILIA-web/static/js/main.4f547940.js.map",
+    "main.fe3f7cf6.js.map": "/SILIA-web/static/js/main.fe3f7cf6.js.map",
     "453.258b012d.chunk.js.map": "/SILIA-web/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.376283d7.css",
-    "static/js/main.4f547940.js"
+    "static/js/main.fe3f7cf6.js"
   ]
 }
