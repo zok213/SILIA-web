@@ -1,5 +1,11 @@
 import React from "react"; 
 import "../App.css";
+import AN from "../Assets/An.jpg"
+import HAN from "../Assets/Han.png"
+import KHANG from "../Assets/Khang.jpg"
+import KHOI from"../Assets/Khoi.png"
+import TAI from "../Assets/Minh Tài.jpg"
+import VIET from "../Assets/Viet.jpg"
 function Feedback() {
   return (
     <div>
@@ -13,11 +19,11 @@ function Feedback() {
       <main>
         <section id="snapping" className="section">
           <div className="content">
-            <h2 class = "title"><strong style={{color: "#f36666"}} >First</strong>,The purpose of <b>SILIA</b></h2>
+            <h2 class = "title"><strong style={{color: "#f36666"}} >First</strong>,The purpose of <b>SILIA-web</b></h2>
             <div className="text">
               <img src="https://assets.codepen.io/197359/flower-white.png" alt="" />
               <div className = 't'>
-              <h3>SILIA is a project that aims to develop an intelligent translation app that will help bridge communication between the hearing-impaired and the world.</h3>
+              <h3>SILIA-web is a project that aims to develop an intelligent translation app that will help bridge communication between the hearing-impaired and the world.</h3>
               <h3>Use technology to turn speech or text into Vietnamese Sign Language (VSL) videos.</h3>
               <h3>Help the hearing-impaired community communicate more easily through a virtual interpreter.</h3>
               <h3>Let users learn VSL by watching and practicing with animated avatars.</h3>
@@ -40,7 +46,7 @@ function Feedback() {
                             />
                             <img
                               class="img img1"
-                              src=""
+                              src="../Assets/An.jpg"
                             />
                           </div>
                         </div>
@@ -56,7 +62,7 @@ function Feedback() {
                             />
                             <img
                               class="img img1"
-                              src=""
+                              src="../Assets/Khang.jpg"
                             />
                           </div>
                         </div>
@@ -72,7 +78,7 @@ function Feedback() {
                             />
                             <img
                               class="img img1"
-                              src=""
+                              src="../Assets/Minh Tài.jpg"
                             />
                           </div>
                         </div>
@@ -98,7 +104,7 @@ function Feedback() {
                             />
                             <img
                               class="img img1"
-                              src=""
+                              src="../Assets/Viet.jpg"
                             />
                           </div>
                         </div>
@@ -114,7 +120,7 @@ function Feedback() {
                             />
                             <img
                               class="img img1"
-                              src=""
+                              src="../Assets/Han.png"
                             />
                           </div>
                         </div>
@@ -130,7 +136,7 @@ function Feedback() {
                             />
                             <img
                               class="img img1"
-                              src=""
+                              src="../Assets/Khoi.png"
                             />
                           </div>
                         </div>
@@ -175,7 +181,7 @@ function Feedback() {
               <img src="https://assets.codepen.io/197359/flower-purple.png" alt="" />
               <div className="p">
                 <h3>Our Fanpage: https://shorturl.at/9Fv3S</h3>
-                <h3>Our Email: silia.danghinhthanham@gmail.com</h3>
+                <h3>Our Email: SILIA-web.danghinhthanham@gmail.com</h3>
                 <h3>Call us: +84896233053 </h3>
               </div>
             </div>

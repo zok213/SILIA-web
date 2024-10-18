@@ -34,11 +34,11 @@ function Videos() {
     }
 
     setValidated(true);
-    navigate(`/sign-kit/video/${videoId}`, { replace: false });
+    navigate(`/SILIA-web/video/${videoId}`, { replace: false });
   };
 
   const handleClick = (videoId) => {
-    navigate(`/sign-kit/video/${videoId}`, { replace: false });
+    navigate(`/SILIA-web/video/${videoId}`, { replace: false });
   };
 
   const videoList = videos.map((video, index) => (
@@ -53,7 +53,7 @@ function Videos() {
             Explore ISL Videos!
           </div>
           <div className="lead text-center">
-            Welcome to the ISL video section of SILIA. Create your own public
+            Welcome to the ISL video section of SILIA-web. Create your own public
             or private videos, share with your friends and colleagues or browse
             through the videos created by others and shared with the entire
             community!
@@ -78,7 +78,7 @@ function Videos() {
                 them with the entire community! Each video generates a video ID
                 which can be used to access the video directly.
               </div>
-              <Link to='/sign-kit/create-video' className="btn btn-primary mt-4">
+              <Link to='/SILIA-web/create-video' className="btn btn-primary mt-4">
                 Create your own Video!
               </Link>
             </div>

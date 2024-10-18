@@ -16,7 +16,7 @@ function Services() {
             <div className="h2 section-heading">Our Services</div>
             <div className="col-lg-4 divider my-2" />
             <div className="text-center normal-text">
-            SiLIA represents a significant advancement in assistive technology for deaf individuals, offering a practical and effective solution for communication challenges. 
+            SILIA-web represents a significant advancement in assistive technology for deaf individuals, offering a practical and effective solution for communication challenges. 
 <br></br>
 By combining cutting-edge technology with a focus on user experience, this project aims to make a meaningful impact on the lives of deaf individuals and foster a more inclusive society.
             </div>
@@ -39,7 +39,7 @@ By combining cutting-edge technology with a focus on user experience, this proje
                 </div>
                 <div className="card-footer p-0 m-0" style={{ border: "none" }}>
                   <Link
-                    to="/sign-kit/convert"
+                    to="/SILIA-web/convert"
                     className="btn btn-info w-100 p-3"
                     style={{ fontSize: "large" }}
                   >
@@ -63,7 +63,7 @@ By combining cutting-edge technology with a focus on user experience, this proje
                 </div>
                 <div className="card-footer p-0 m-0" style={{ border: "none" }}>
                   <Link
-                    to="/sign-kit/learn-sign"
+                    to="/SILIA-web/learn-sign"
                     className="btn btn-info w-100 p-3"
                     style={{ fontSize: "large" }}
                   >
@@ -87,7 +87,7 @@ By combining cutting-edge technology with a focus on user experience, this proje
                 </div>
                 <div className="card-footer p-0 m-0" style={{ border: "none" }}>
                   <Link
-                    to="/sign-kit/all-videos"
+                    to="/SILIA-web/all-videos"
                     className="btn btn-info w-100 p-3"
                     style={{ fontSize: "large" }}
                   >
