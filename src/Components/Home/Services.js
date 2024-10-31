@@ -39,7 +39,7 @@ By combining cutting-edge technology with a focus on user experience, this proje
                 </div>
                 <div className="card-footer p-0 m-0" style={{ border: "none" }}>
                   <Link
-                    to="/SILIA-web/convert"
+                    to="/convert"
                     className="btn btn-info w-100 p-3"
                     style={{ fontSize: "large" }}
                   >
@@ -63,7 +63,7 @@ By combining cutting-edge technology with a focus on user experience, this proje
                 </div>
                 <div className="card-footer p-0 m-0" style={{ border: "none" }}>
                   <Link
-                    to="/SILIA-web/learn-sign"
+                    to="/learn-sign"
                     className="btn btn-info w-100 p-3"
                     style={{ fontSize: "large" }}
                   >
@@ -87,7 +87,7 @@ By combining cutting-edge technology with a focus on user experience, this proje
                 </div>
                 <div className="card-footer p-0 m-0" style={{ border: "none" }}>
                   <Link
-                    to="/SILIA-web/all-videos"
+                    to="/all-videos"
                     className="btn btn-info w-100 p-3"
                     style={{ fontSize: "large" }}
                   >

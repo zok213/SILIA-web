@@ -1,1 +1,1 @@
-export const baseURL = 'https://SILIA-web-api.herokuapp.com/SILIA-web'
+export const baseURL = 'https:/-api.herokuapp.com'

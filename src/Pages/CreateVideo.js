@@ -279,7 +279,7 @@ function CreateVideo() {
 
       <ConfirmModal show={showModal} onHide={(e) => {
         setShowModal(false)
-        navigate('/SILIA-web/all-videos', { replace: true })
+        navigate('/all-videos', { replace: true })
       }} videoId={videoId} />
     </div>
   );

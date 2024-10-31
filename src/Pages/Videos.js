@@ -34,11 +34,11 @@ function Videos() {
     }
 
     setValidated(true);
-    navigate(`/SILIA-web/video/${videoId}`, { replace: false });
+    navigate(`/video/${videoId}`, { replace: false });
   };
 
   const handleClick = (videoId) => {
-    navigate(`/SILIA-web/video/${videoId}`, { replace: false });
+    navigate(`/video/${videoId}`, { replace: false });
   };
 
   const videoList = videos.map((video, index) => (
@@ -78,7 +78,7 @@ function Videos() {
                 them with the entire community! Each video generates a video ID
                 which can be used to access the video directly.
               </div>
-              <Link to='/SILIA-web/create-video' className="btn btn-primary mt-4">
+              <Link to='/create-video' className="btn btn-primary mt-4">
                 Create your own Video!
               </Link>
             </div>

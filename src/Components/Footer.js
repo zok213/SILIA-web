@@ -17,16 +17,16 @@ function Footer() {
                         <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                             <h6 className="text-uppercase font-weight-bold">Services</h6>
                             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}} />
-                            <p><Link to='/SILIA-web/convert' className='footer-link'>Convert</Link></p>
-                            <p><Link to='/SILIA-web/learn-sign' className='footer-link'>Learn Sign</Link></p>
-                            <p><Link to='/SILIA-web/all-videos' className='footer-link'>Videos</Link></p>
+                            <p><Link to='/convert' className='footer-link'>Convert</Link></p>
+                            <p><Link to='/learn-sign' className='footer-link'>Learn Sign</Link></p>
+                            <p><Link to='/all-videos' className='footer-link'>Videos</Link></p>
                         </div>
 
                         <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                             <h6 className="text-uppercase font-weight-bold">Useful links</h6>
                             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}} />
-                            <p><Link to='/SILIA-web/home' className='footer-link'>Home</Link></p>
-                            <p><Link to='/SILIA-web/feedback' className='footer-link'>Feedback</Link></p>
+                            <p><Link to='/home' className='footer-link'>Home</Link></p>
+                            <p><Link to='/feedback' className='footer-link'>Feedback</Link></p>
                         </div>
 
                         <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
