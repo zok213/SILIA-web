@@ -44,10 +44,7 @@ function Feedback() {
                               class="circle"
                               src=""
                             />
-                            <img
-                              class="img img1"
-                              src="../Assets/An.jpg"
-                            />
+                            <img class="img img1" src={AN} alt="Nguyễn Lê Khánh An" />
                           </div>
                         </div>
                         <div class="divider"></div>
@@ -60,14 +57,37 @@ function Feedback() {
                               class="circle"
                               src=""
                             />
-                            <img
-                              class="img img1"
-                              src="../Assets/Khang.jpg"
-                            />
+                            <img class="img img1" src={KHANG} alt="Nguyễn Bắc Bảo Khang" />
                           </div>
                         </div>
                         <div class="divider"></div>
                         <div class="name">Nguyễn Bắc Bảo Khang</div>
+                  </div>
+
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="layout" className="section">
+          <div className="content">
+            <h2 class = "title"><strong style={{color: "#4DD2F3FF"}} >Then</strong>,Come to our <em>media and event </em> team</h2>
+            <div className="text">
+              <img src="https://assets.codepen.io/197359/flower-blue.png" alt="" />
+              <div class="about">     
+
+                  <div class="person">
+                        <div class="containerabout">
+                          <div class="container-inner">
+                            <img
+                              class="circle"
+                              src=""
+                            />
+                            <img class="img img1" src={KHOI} alt="Võ Huỳnh Khôi" />
+
+                          </div>
+                        </div>
+                        <div class="divider"></div>
+                        <div class="name">Võ Huỳnh Khôi</div>
                   </div>
                   <div class="person">
                         <div class="containerabout">
@@ -76,10 +96,7 @@ function Feedback() {
                               class="circle"
                               src=""
                             />
-                            <img
-                              class="img img1"
-                              src="../Assets/Minh Tài.jpg"
-                            />
+                              <img class="img img1" src={TAI} alt="Mai Phước Minh Tài" /> 
                           </div>
                         </div>
                         <div class="divider"></div>
@@ -89,12 +106,12 @@ function Feedback() {
             </div>
           </div>
         </section>
-        <section id="layout" className="section">
+        <section id="transition" className="section">
           <div className="content">
-            <h2 class = "title"><strong style={{color: "#4DD2F3FF"}} >Then</strong>,Come to our <em>management</em> team</h2>
+            <h2 class = "title"><strong style={{color: "#E46363FF"}} >Finally</strong>,See our <em>manager</em> </h2>
             <div className="text">
-              <img src="https://assets.codepen.io/197359/flower-blue.png" alt="" />
-              <div class="about">     
+              <img src="https://assets.codepen.io/197359/flower-red.png" alt="" />
+              <div class="about" >     
                   <div class="person">
                         <div class="containerabout">
                           <div class="container-inner">
@@ -102,10 +119,7 @@ function Feedback() {
                               class="circle"
                               src=""
                             />
-                            <img
-                              class="img img1"
-                              src="../Assets/Viet.jpg"
-                            />
+                            <img class="img img1" src={VIET} alt="Nguyễn Xuân Việt" />
                           </div>
                         </div>
                         <div class="divider"></div>
@@ -118,58 +132,13 @@ function Feedback() {
                               class="circle"
                               src=""
                             />
-                            <img
-                              class="img img1"
-                              src="../Assets/Han.png"
-                            />
+                            <img class="img img1" src={HAN} alt="Huỳnh Ngọc Hân" />
+
                           </div>
                         </div>
                         <div class="divider"></div>
                         <div class="name">Huỳnh Ngọc Hân</div>
                   </div>
-                  <div class="person">
-                        <div class="containerabout">
-                          <div class="container-inner">
-                            <img
-                              class="circle"
-                              src=""
-                            />
-                            <img
-                              class="img img1"
-                              src="../Assets/Khoi.png"
-                            />
-                          </div>
-                        </div>
-                        <div class="divider"></div>
-                        <div class="name">Võ Huỳnh Khôi</div>
-                  </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        <section id="transition" className="section">
-          <div className="content">
-            <h2 class = "title"><strong style={{color: "#E46363FF"}} >Finally</strong>,See our <em>mentors</em> </h2>
-            <div className="text">
-              <img src="https://assets.codepen.io/197359/flower-red.png" alt="" />
-              <div class="about" style={{left:"65%"}}>     
-                  <div class="person">
-                        <div class="containerabout">
-                          <div class="container-inner">
-                            <img
-                              class="circle"
-                              src=""
-                            />
-                            <img
-                              class="img img1"
-                              src=""
-                            />
-                          </div>
-                        </div>
-                        <div class="divider"></div>
-                        <div class="name">Alma</div>
-                  </div>
-                  
               </div>
             </div>
           </div>

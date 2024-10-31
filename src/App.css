@@ -59,6 +59,7 @@ body {
 canvas{
     border-style: solid;
     border-width: 3px;
+
 }
 
 .btn-start{
@@ -73,7 +74,7 @@ i{
 .home-gradient {
     background: rgb(33,37,41);
     background: linear-gradient(180deg, rgba(33,37,41,1) 6%, rgba(9,9,121,1) 45%, rgba(12,186,235,0.5186449579831933) 100%);
-    height: calc(100vh - 70px);
+    height: calc(100vh - 75px);
     flex-direction: column
 }
 
@@ -395,4 +396,36 @@ main {
   padding: 20px;
   margin: 20px;
   width: 90%;
+}
+
+@media screen and (max-width: 600px) {
+  .home-gradient {
+    height: calc(40vh - 75px);
+} 
+  .bg{
+    height: 150%;
+  }
+  .bot-image{
+    width: 40vw;
+    flex-direction: column;
+    margin-left: 10px;
+    display: inline;
+  }
+  canvas{
+    width: 94vw !important;
+    height: 45vh !important;
+  }
+  .w-100-mb {
+    width: 40px !important ;
+}
+  .signs-mb {
+    margin-top: 3px !important;
+    height: 30px !important;
+  }
+  .row-mb {
+    margin-bottom: 10px;
+  }
+  .row>*{
+    width: max-content !important;
+  }
 }

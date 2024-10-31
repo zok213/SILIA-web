@@ -114,7 +114,7 @@ function LearnSign() {
   for (let i = 0; i < 26; i++) {
     alphaButtons.push(
         <div className='col-md-3'>
-            <button className='signs w-100' onClick={()=>{
+            <button className='w-100-mb signs w-100 signs-mb ' onClick={()=>{
               if(ref.animations.length === 0){
                 alphabets[String.fromCharCode(i + 65)](ref);
               }
@@ -143,21 +143,13 @@ function LearnSign() {
   return (
     <div className='container-fluid'>
       <div className='row'>
-        <div className='col-md-3'>
+        <div className='col-md-3 mb'>
             <h1 className='heading'>
               Alphabets
             </h1>
-            <div className='row'>
+            <div className='row row-mb'>
                 {
                     alphaButtons
-                }
-            </div>
-            <h1 className='heading'>
-              Words
-            </h1>
-            <div className='row'>
-                {
-                    wordButtons
                 }
             </div>
         </div>
