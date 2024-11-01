@@ -19,7 +19,7 @@ function Navbar() {
                         <li className="nav-item"><Link to='/convert' className="nav-link">Convert</Link></li>
                         <li className="nav-item"><Link to='/learn-sign' className="nav-link">Learn Sign</Link></li>
                         <li className="nav-item"><Link to='/all-videos' className="nav-link">Videos</Link></li>
-                        <li className="nav-item"><Link to='/feedback' className="nav-link">About</Link></li>
+                        <li className="nav-item mmb"><Link to='/feedback' className="nav-link">About</Link></li>
                     </ul>
                 </div>
             </div>

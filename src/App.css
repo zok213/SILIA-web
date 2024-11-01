@@ -428,4 +428,7 @@ main {
   .row>*{
     width: max-content !important;
   }
+  .mmb{
+    visibility: hidden;
+  }
 }

@@ -6,6 +6,11 @@ import KHANG from "../Assets/Khang.jpg"
 import KHOI from"../Assets/Khoi.png"
 import TAI from "../Assets/Minh Tài.jpg"
 import VIET from "../Assets/Viet.jpg"
+import WHITE from "../Assets/flower-white.png"
+import YELLOW from "../Assets/flower-yellow.png"
+import RED from "../Assets/flower-red.png"
+import BLUE from "../Assets/flower-blue.png"
+import PURPLE from "../Assets/flower-purple.png"
 function Feedback() {
   return (
     <div>
@@ -21,7 +26,7 @@ function Feedback() {
           <div className="content">
             <h2 class = "title"><strong style={{color: "#f36666"}} >First</strong>,The purpose of <b>SILIA-web</b></h2>
             <div className="text">
-              <img src="https://assets.codepen.io/197359/flower-white.png" alt="" />
+              <img src={WHITE} alt="" />
               <div className = 't'>
               <h3>SILIA-web is a project that aims to develop an intelligent translation app that will help bridge communication between the hearing-impaired and the world.</h3>
               <h3>Use technology to turn speech or text into Vietnamese Sign Language (VSL) videos.</h3>
@@ -35,7 +40,7 @@ function Feedback() {
           <div className="content">
             <h2 class = "title"><strong style={{color: "#E7AD41FF"}} >Next</strong>,About our <em>devolopments</em> team</h2>
             <div className="text">
-              <img src="https://assets.codepen.io/197359/flower-yellow.png" alt="" />
+              <img src={YELLOW} alt="" />
               <div class="about">     
                   <div class="person">
                         <div class="containerabout">
@@ -72,7 +77,7 @@ function Feedback() {
           <div className="content">
             <h2 class = "title"><strong style={{color: "#4DD2F3FF"}} >Then</strong>,Come to our <em>media and event </em> team</h2>
             <div className="text">
-              <img src="https://assets.codepen.io/197359/flower-blue.png" alt="" />
+              <img src={BLUE} alt="" />
               <div class="about">     
 
                   <div class="person">
@@ -108,9 +113,9 @@ function Feedback() {
         </section>
         <section id="transition" className="section">
           <div className="content">
-            <h2 class = "title"><strong style={{color: "#E46363FF"}} >Finally</strong>,See our <em>manager</em> </h2>
+            <h2 class = "title"><strong style={{color: "#E46363FF"}} >Finally</strong>,See our <em>management</em> team </h2>
             <div className="text">
-              <img src="https://assets.codepen.io/197359/flower-red.png" alt="" />
+              <img src={RED} alt="" />
               <div class="about" >     
                   <div class="person">
                         <div class="containerabout">
@@ -147,7 +152,7 @@ function Feedback() {
           <div className="content">
             <h2 class = "title">Ways to <strong class = "purple">get in touch</strong> with us</h2>
             <div className="text">
-              <img src="https://assets.codepen.io/197359/flower-purple.png" alt="" />
+              <img src= {PURPLE} alt="" />
               <div className="p">
                 <h3>Our Fanpage: https://shorturl.at/9Fv3S</h3>
                 <h3>Our Email: SILIA-web.danghinhthanham@gmail.com</h3>
