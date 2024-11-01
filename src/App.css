@@ -403,7 +403,7 @@ main {
     height: calc(40vh - 75px);
 } 
   .bg{
-    height: 150%;
+    height: 29vh;
   }
   .bot-image{
     width: 40vw;
